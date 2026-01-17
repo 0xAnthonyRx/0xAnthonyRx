@@ -1,14 +1,49 @@
-## Hi, I'm Anthony 👋
+# Hi, I'm Anthony 👋
 
+### 🚀 Aspiring DevSecOps Engineer & AI Builder
+Based in Nigeria 🇳🇬 | | Linux Enthusiast (Parrot OS)
 
-- 🔭 I recently upskilled in data analysis and currently working on mini Cybersecurity and AI Projects...
-- 🌱 I’m currently learning Cybersecurity, AI, and Python ...
-<!-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+I am a developer focused on the intersection of **Security**, **Infrastructure**, and **AI Agents**. My goal is to bridge the gap between complex code and efficient workflows. I specialize in **AI-Assisted Development**, architecting environments that leverage LLMs to ship full-stack projects faster and more securely. Beyond the code, I am passionate about the structural side of tech, including **BUSINESS DEVELOPMENT** and **GRC (Governance, Risk, and Compliance)**, ensuring that what I build is not just functional, but secure and well-managed.
 
-<!-- Github Stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xAnthonyRx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 🛠️ The Stack & Tools
+* **OS/Environment:** Linux (Parrot OS), Bash, Miniconda
+* **Languages:** Python, JavaScript
+* **Data & AI:** Data Analysis (Pandas/NumPy), Building AI Agents, LLM-assisted workflows
+* **DevOps/Cloud:** Vercel, Git, Basic CI/CD concepts
+
+---
+
+### 🔭 Featured Projects
+
+#### 🏥 **HMO Fast Pass (hmo-auth-system)**
+*A deployed authentication system for health management organizations.*
+* **Focus:** Secure authentication and user management.
+* **Status:** Deployed on **Vercel**.
+* **Tech:** Next.js 14 (App Router), TypeScript, Tailwind CSS, Lucide React
+
+#### 🏠 **Property Lead Manager**
+*A lead management solution for real estate professionals.*
+* **Focus:** Data handling and lead tracking logic.
+* **Status:** Deployed on **Render**.
+* **Tech:** Node.js + Express, PostgreSQL (Supabase), Vanilla JavaScript, Chart.js
+---
+
+### 🌱 What I'm Learning Right Now
+* **DevSecOps:** Moving beyond basic coding to secure pipelines and infrastructure.
+* **AI Agents:** Building autonomous agents that can handle complex tasks.
+* **Cybersecurity:** AppSec, GRC Frameworks, Bug bounties, ethical hacking, and securing Linux environments.
+
+---
+
+### ⚡ Stats
+[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xAnthonyRx&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Connect
+* **Focus:** I'm currently open to internships in **AI Engineering**, **Developer Experience**,**CyberSecuity**, and **DevSecOps**.
+* **Twitter/X:** x.com/0xAnthonyRx
+* **LinkedIn:** www.linkedin.com/in/0xanthonyrx
+

@@ -3,7 +3,7 @@
 ### 🚀 Aspiring DevSecOps Engineer & AI Builder
 Based in Nigeria 🇳🇬 | | Linux Enthusiast (Parrot OS)
 
-I am a developer focused on the intersection of **Security**, **Infrastructure**, and **AI Agents**. My goal is to bridge the gap between complex code and efficient workflows. I specialize in **AI-Assisted Development**, architecting environments that leverage LLMs to ship full-stack projects faster and more securely. Beyond the code, I am passionate about the structural side of tech, including **Business Development** and **GRC (Governance, Risk, and Compliance)**, ensuring that what I build is not just functional, but secure and well-managed.
+I am a developer focused on the intersection of Security, Infrastructure, and AI Agents. My goal is to bridge the gap between complex code and efficient workflows. I specialize in AI-Assisted Development, architecting environments that leverage LLMs to ship full-stack projects faster and more securely. Beyond the code, I am passionate about the structural side of tech, including Business Development and GRC (Governance, Risk, and Compliance), ensuring that what I build is not just functional, but secure and well-managed.
 Currently, I am expanding my focus to Decentralized Systems and Bitcoin Infrastructure, applying my security background to build robust, trust-minimized applications.
 ---
 

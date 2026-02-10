@@ -4,7 +4,7 @@
 Based in Nigeria 🇳🇬 | | Linux Enthusiast (Parrot OS)
 
 I am a developer focused on the intersection of **Security**, **Infrastructure**, and **AI Agents**. My goal is to bridge the gap between complex code and efficient workflows. I specialize in **AI-Assisted Development**, architecting environments that leverage LLMs to ship full-stack projects faster and more securely. Beyond the code, I am passionate about the structural side of tech, including **Business Development** and **GRC (Governance, Risk, and Compliance)**, ensuring that what I build is not just functional, but secure and well-managed.
-
+Currently, I am expanding my focus to Decentralized Systems and Bitcoin Infrastructure, applying my security background to build robust, trust-minimized applications.
 ---
 
 ### 🛠️ The Stack & Tools
@@ -34,12 +34,29 @@ I am a developer focused on the intersection of **Security**, **Infrastructure**
 * **Focus:** Data handling and lead tracking logic.
 * **Status:** Deployed on **Render**.
 * **Tech:** Node.js + Express, PostgreSQL (Supabase), Vanilla JavaScript, Chart.js
+
+#### **👻 GhostPay (Privacy-Focused Payments)**
+
+* **Focus:** Building a privacy-centric payment application for the Starknet Hackathon.
+
+* **Tech:** Cairo, Starknet, Cryptographic Privacy Protocols.
+
+* **Status:** Active Development.
+
+#### **🛡️ Velos (AI-Native Security Agent)**
+
+* **Focus:** Autonomous security agent for threat detection and response (Amazon Competition).
+
+* **Tech:** Python, AI Agents, Security Frameworks.
+
+Status: Active Development.
 ---
 
 ### 🌱 What I'm Learning Right Now
 * **DevSecOps:** Moving beyond basic coding to secure pipelines and infrastructure.
 * **AI Agents:** Building autonomous agents that can handle complex tasks.
 * **Cybersecurity:** AppSec, GRC Frameworks, Bug bounties, ethical hacking, and securing Linux environments.
+* **Bitcoin & Blockchain:** Understanding consensus mechanisms, Lightning Network nodes, and cryptographic primitives.
 
 ---
 

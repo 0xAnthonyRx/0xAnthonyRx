@@ -1,18 +1,18 @@
 # Hi, I'm Anthony 👋
 
-### 🚀 Aspiring DevSecOps Engineer & AI Builder
-Based in Nigeria 🇳🇬 | | Linux Enthusiast (Parrot OS)
+### AI Systems Engineer | DevSecOps & Defensive Architecture
+**Based in Ghana  | | Linux Systems (Parrot OS) | Zero-Trust & Applied LLMs**
 
-I am a developer focused on the intersection of Security, Infrastructure, and AI Agents. My goal is to bridge the gap between complex code and efficient workflows. I specialize in AI-Assisted Development, architecting environments that leverage LLMs to ship full-stack projects faster and more securely. Beyond the code, I am passionate about the structural side of tech, including Business Development and GRC (Governance, Risk, and Compliance), ensuring that what I build is not just functional, but secure and well-managed.
+I engineer production-grade AI pipelines, deterministic backend architectures, and secure autonomous workflows. My focus bridges low-level security fundamentals (adversarial mindset, environment hardening, GRC) with applied generative systems (RAG architectures, strict schema validation, and telemetry ingestion).
 Currently, I am expanding my focus to Decentralized Systems and Bitcoin Infrastructure, applying my security background to build robust, trust-minimized applications.
 
 ---
 
 ### 🛠️ The Stack & Tools
-* **OS/Environment:** Linux (Parrot OS), Bash, Miniconda
-* **Languages:** Python, JavaScript
-* **Data & AI:** Data Analysis (Pandas/NumPy), Building AI Agents, LLM-assisted workflows
-* **DevOps/Cloud:** Vercel, Git, Basic CI/CD concepts
+* **Core Languages:** Python, TypeScript, Bash, Rust, SQL
+* **AI & Validation:** Pydantic, Structured Outputs (Function Calling), Vector Databases (pgvector/Pinecone), RAG Pipelines, vLLM/Ollama
+* **Security & Infrastructure:** Parrot OS, Linux Hardening, AppSec, Docker, CI/CD Hardening, Zero-Trust Boundaries
+* **Web & Systems:** Next.js (App Router), FastAPI, Node.js/Express, PostgreSQL, Supabase
 
 ---
 
@@ -22,43 +22,41 @@ Currently, I am expanding my focus to Decentralized Systems and Bitcoin Infrastr
 *An automated system that aggregates and summarizes academic research.*
 * **What it does:** Randomly samples articles from 70+ top journals, uses AI to generate plain-language summaries, and emails a digest bi-weekly.
 * **Tech:** Python, LLM APIs, Automation/Cron, HTML Email.
-* **Status:** Active / Private Repo.
+* **Status:** Active / Public Repo.
 
-#### 🏥 **HMO Fast Pass (hmo-auth-system)**
-*A deployed authentication system for health management organizations.*
-* **Focus:** Secure authentication and user management.
-* **Status:** Deployed on **Vercel**.
-* **Tech:** Next.js 14 (App Router), TypeScript, Tailwind CSS, Lucide React
+#### 🛡️ Velos (AI-Native Security Agent)
+* **Focus:** Autonomous security agent for automated vulnerability parsing, threat surface mapping, and safe code remediation.
+* **Tech:** Python, LLM Schemas, Application Security Heuristics.
 
-#### 🏠 **Property Lead Manager**
-*A lead management solution for real estate professionals.*
-* **Focus:** Data handling and lead tracking logic.
-* **Status:** Deployed on **Render**.
-* **Tech:** Node.js + Express, PostgreSQL (Supabase), Vanilla JavaScript, Chart.js
+#### 📈 LiquidityMicro
+* **Focus:** Market microstructure risk terminal analyzing Level-2 order book depth, slippage calculation, and model-assisted risk telemetry.
+* **Tech:** Python, Streamlit, Market Depth Parsing, Gemini API.
 
-#### **👻 GhostPay (Privacy-Focused Payments)**
+#### ⚡ Deterministic Engine
+* **Focus:** High-reliability pipeline engine enforcing deterministic data validation, schema boundaries, and state consistency.
+* **Tech:** Python, Pydantic, State Management.
 
-* **Focus:** Building a privacy-centric payment application for the Starknet Hackathon.
+#### 🏥 HMO Fast Pass (`hmo-fast-pass`)
+* **Focus:** Secure authorization system built to streamline Nigerian healthcare compliance under strict regulatory mandates.
+* **Tech:** Next.js 14, TypeScript, Supabase, Tailwind CSS.
 
-* **Tech:** Cairo, Starknet, Cryptographic Privacy Protocols.
+#### 👻 GhostPay (Privacy Protocols)
+* **Focus:** Privacy-preserving payment workflows using cryptographic primitives and zero-trust key management.
+* **Tech:** Cairo, Starknet Architecture, Applied Cryptography.
 
-* **Status:** Active Development.
-
-#### **🛡️ Velos (AI-Native Security Agent)**
-
-* **Focus:** Autonomous security agent for threat detection and response (Amazon Competition).
-
-* **Tech:** Python, AI Agents, Security Frameworks.
-
-Status: Active Development.
 ---
 
-### 🌱 What I'm Learning Right Now
-* **DevSecOps:** Moving beyond basic coding to secure pipelines and infrastructure.
-* **AI Agents:** Building autonomous agents that can handle complex tasks.
-* **Cybersecurity:** AppSec, GRC Frameworks, Bug bounties, ethical hacking, and securing Linux environments.
-* **Bitcoin & Blockchain:** Understanding consensus mechanisms, Lightning Network nodes, and cryptographic primitives.
+### ⚡ Contributions & Focus
+* Developing hardened agent architectures that fail safely under hostile inputs.
+* Engineering deterministic evaluation pipelines for enterprise LLM deployments.
+* Enforcing GRC, auditability, and data boundary controls across automated systems.
 
+---
+
+### 📫 Connect
+* **Focus:** Open to technical consulting engagements, contract engineering, and enterprise AI/Security architecture roles.
+* **LinkedIn:** [linkedin.com/in/0xanthonyrx](https://www.linkedin.com/in/0xanthonyrx/)
+* **Twitter / X:** [@0xAnthonyRx](https://x.com/0xAnthonyRx)
 ---
 
 ### ⚡ Stats
@@ -69,8 +67,5 @@ Status: Active Development.
 
 ---
 
-### 📫 Connect
-* **Focus:** I'm currently open to internships in **AI Engineering**, **Developer Experience**,**CyberSecuity**, and **DevSecOps**.
-* **Twitter/X:** x.com/0xAnthonyRx
 * **LinkedIn:** www.linkedin.com/in/0xanthonyrx
 

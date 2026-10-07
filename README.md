@@ -67,5 +67,3 @@ Currently, I am expanding my focus to Decentralized Systems and Bitcoin Infrastr
 
 ---
 
-* **LinkedIn:** www.linkedin.com/in/0xanthonyrx
-

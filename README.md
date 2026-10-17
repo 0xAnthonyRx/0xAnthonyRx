@@ -71,8 +71,6 @@ Currently, I am expanding my focus to Decentralized Systems and Bitcoin Infrastr
 
 ### ⚡ Stats
 
-# ![Anthony's GitHub Stats](https://github.com/0xAnthonyRx/0xAnthonyRx/blob/main/github-metrics.svg) --
-
  [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xAnthonyRx&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 

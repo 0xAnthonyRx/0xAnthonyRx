@@ -1,7 +1,7 @@
 # Hi, I'm Anthony 👋
 
 ### AI Systems Engineer | DevSecOps & Defensive Architecture
-**Based in Ghana  | | Linux Systems (Parrot OS) | Zero-Trust & Applied LLMs**
+**Based in the MilkyWay system/Sector 003  | | Linux Systems (Parrot OS) | Zero-Trust & Applied LLMs**
 
 I engineer production-grade AI pipelines, deterministic backend architectures, and secure autonomous workflows. My focus bridges low-level security fundamentals (adversarial mindset, environment hardening, GRC) with applied generative systems (RAG architectures, strict schema validation, and telemetry ingestion).
 Currently, I am expanding my focus to Decentralized Systems and Bitcoin Infrastructure, applying my security background to build robust, trust-minimized applications.

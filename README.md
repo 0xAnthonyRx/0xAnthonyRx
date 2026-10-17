@@ -1,18 +1,28 @@
 # Hi, I'm Anthony 👋
 
 ### AI Systems Engineer | DevSecOps & Defensive Architecture
-**Based in the MilkyWay system/Sector 003  | | Linux Systems (Parrot OS) | Zero-Trust & Applied LLMs**
+**Remote-first  | | Linux Systems (Parrot OS) | Zero-Trust & Applied LLMs | Bitcoin-native curious**
 
 I engineer production-grade AI pipelines, deterministic backend architectures, and secure autonomous workflows. My focus bridges low-level security fundamentals (adversarial mindset, environment hardening, GRC) with applied generative systems (RAG architectures, strict schema validation, and telemetry ingestion).
 Currently, I am expanding my focus to Decentralized Systems and Bitcoin Infrastructure, applying my security background to build robust, trust-minimized applications.
 
+**Open to:** AI/Security architecture roles · Contract engineering · Technical consulting
+
 ---
 
 ### 🛠️ The Stack & Tools
-* **Core Languages:** Python, TypeScript, Bash, Rust, SQL
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
 * **AI & Validation:** Pydantic, Structured Outputs (Function Calling), Vector Databases (pgvector/Pinecone), RAG Pipelines, vLLM/Ollama
 * **Security & Infrastructure:** Parrot OS, Linux Hardening, AppSec, Docker, CI/CD Hardening, Zero-Trust Boundaries
 * **Web & Systems:** Next.js (App Router), FastAPI, Node.js/Express, PostgreSQL, Supabase
+
+`Parrot OS daily driver` · `pgvector in prod` · `Zero-trust by default` · `Deterministic over stochastic`
 
 ---
 
@@ -55,15 +65,14 @@ Currently, I am expanding my focus to Decentralized Systems and Bitcoin Infrastr
 
 ### 📫 Connect
 * **Focus:** Open to technical consulting engagements, contract engineering, and enterprise AI/Security architecture roles.
-* **LinkedIn:** [linkedin.com/in/0xanthonyrx](https://www.linkedin.com/in/0xanthonyrx/)
-* **Twitter / X:** [@0xAnthonyRx](https://x.com/0xAnthonyRx)
+* **LinkedIn:** https://www.linkedin.com/in/0xanthonyrx/
+* **Twitter / X:** https://x.com/0xAnthonyRx
 ---
 
 ### ⚡ Stats
 
 ![Anthony's GitHub Stats](https://github.com/0xAnthonyRx/0xAnthonyRx/blob/main/github-metrics.svg)
 
-[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xAnthonyRx&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+# [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xAnthonyRx&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
----
 

@@ -65,8 +65,8 @@ Currently, I am expanding my focus to Decentralized Systems and Bitcoin Infrastr
 
 ### 📫 Connect
 * **Focus:** Open to technical consulting engagements, contract engineering, and enterprise AI/Security architecture roles.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0xanthonyrx/)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xAnthonyRx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0xanthonyrx/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xAnthonyRx)
 
 ---
 

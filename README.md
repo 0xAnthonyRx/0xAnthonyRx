@@ -32,7 +32,7 @@ Currently, I am expanding my focus to Decentralized Systems and Bitcoin Infrastr
 *An automated system that aggregates and summarizes academic research.*
 * **What it does:** Randomly samples articles from 70+ top journals, uses AI to generate plain-language summaries, and emails a digest bi-weekly.
 * **Tech:** Python, LLM APIs, Automation/Cron, HTML Email.
-* **Status:** Active / Public Repo.
+* **Status:** Active / Private Repo.
 
 #### 🛡️ Velos (AI-Native Security Agent)
 * **Focus:** Autonomous security agent for automated vulnerability parsing, threat surface mapping, and safe code remediation.
